@@ -5,10 +5,8 @@ This is the python manipulation codes for paper:
 (2), Understand the primary driving factors affecting soil respiration within sub-ecosystems of the coastal ecosystem using Random Forest regression and SHapley Additive exPlanations). 
 
 # Study case
-![image](https://github.com/mantunhe/hac-rf-shap/assets/33357820/be733627-a35d-497a-a08f-f77558203f98)![Uploading CPB.png…]()
-![Uploading CPB.png…]()
-![Uploading CPB.png…]()
-![Uploading CPB.png…]()
+![image](https://github.com/mantunhe/hac-rf-shap/assets/33357820/be733627-a35d-497a-a08f-f77558203f98)
+
 
 
 Chesapeake Bay is situated in the Mid-Atlantic region and is mainly separated from the Atlantic Ocean by the Delmarva Peninsula, which encompasses sections of Maryland's Eastern Shore, Virginia's Eastern Shore, and Delaware.
