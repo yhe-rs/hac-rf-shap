@@ -1,9 +1,0 @@
-matplotlib
-sklearn
-scikit_posthocs
-numpy
-pandas
-geopandas
-glob
-shap
-os
