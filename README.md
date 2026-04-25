@@ -32,9 +32,5 @@ We investigate the mechanistic drivers of soil respiration within identified sub
 
 ### 📝 Citation
 If you utilize this code or find the methodology helpful for your research, please cite:
-> *He, Y., Bond-Lamberty, B., Myers-Pigg, A. N., et al. (2024). Effects of spatial variability in vegetation phenology, climate, landcover, biodiversity, topography, and soil property on soil respiration across a coastal ecosystem. Heliyon, 10(9), e30470.*
-
-### 📝 Citation
-If you use this code or our findings in your research, please cite:
 > *He, Y., Bond-Lamberty, B., Myers-Pigg, A.N., Newcomer, M.E., Ladau, J., Holmquist, J.R., Brown, J.B. and Falco, N., 2024. Effects of spatial variability in vegetation phenology, climate, landcover, biodiversity, topography, and soil property on soil respiration across a coastal ecosystem. Heliyon, 10(9).*
 <img width="1536" height="1024" alt="soilres" src="https://github.com/user-attachments/assets/599997c4-51df-405a-bd23-7fe7a42bdd95" />
