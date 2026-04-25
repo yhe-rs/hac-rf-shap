@@ -15,7 +15,7 @@ We utilize a data-driven approach to map the complex landscape of coastal ecosys
 * **Environmental Clustering:** Implementing **Hierarchical Agglomerative Clustering (HAC)** supported by post hoc pairwise hypothesis testing to identify distinct spatial zones with homogenous environmental characteristics.
 * **Sub-Ecosystem Delineation:** Characterizing the unique ecological profiles of the resulting clusters to understand the spatial structure of the TAI.
 
-#### 2. Driving Factor Analysis via Explainable AI (XAI)
+#### 2. Driving Factor Analysis via Explainable ML
 We investigate the mechanistic drivers of soil respiration within identified sub-ecosystems:
 * **Non-Linear Modeling:** Deploying optimized **Random Forest (RF)** regression models to capture complex interactions between environmental predictors and soil respiration rates.
 * **Model Interpretation with SHAP:** Utilizing **SHapley Additive exPlanations (SHAP)** to deconstruct model predictions, quantifying the global and local contribution of each feature (e.g., kNDVI, soil organic carbon, tidal inundation).
