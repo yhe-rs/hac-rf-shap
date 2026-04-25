@@ -2,5 +2,5 @@ This is the python manipulation codes for paper: effects of spatial variability 
 * Investigate the spatial heterogeneity of the coastal ecosystem and identify spatial zones with similar environmental characteristics based on the spatial data layers. 
 * Understand the primary driving factors affecting soil respiration within sub-ecosystems of the coastal ecosystem using Random Forest regression and SHapley Additive exPlanations. 
 <img width="1536" height="1024" alt="soilres" src="https://github.com/user-attachments/assets/599997c4-51df-405a-bd23-7fe7a42bdd95" />
-![image](https://github.com/mantunhe/hac-rf-shap/assets/33357820/be733627-a35d-497a-a08f-f77558203f98)
+<img width="973" height="681" alt="cpb" src="https://github.com/user-attachments/assets/b90ebf45-b48f-40e6-8aad-4ef509a5952c" />
 Chesapeake Bay is situated in the Mid-Atlantic region and is mainly separated from the Atlantic Ocean by the Delmarva Peninsula, which encompasses sections of Maryland's Eastern Shore, Virginia's Eastern Shore, and Delaware.
